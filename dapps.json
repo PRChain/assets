@@ -6,5 +6,13 @@
         "dappIcon": 12,
         "dappLink": "http://www.baidu.com",            
         "dappDescription": "百度搜索工具"
+    },
+     "f8c4283503f15dd6431978245cd793305936293b08ec46fa805068c0713ab782":
+    {   "dappKey": "f8c4283503f15dd6431978245cd793305936293b08ec46fa805068c0713ab782",
+        "dappName": "淘宝网",
+        "dappAddress": "",
+        "dappIcon": 15,
+        "dappLink": "http://www.taobao.com",            
+        "dappDescription": "淘宝商城"
     }
 }
